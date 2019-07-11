@@ -5,19 +5,22 @@ an informative article on something interesting
 
 ![The protagonist "Ofjoseph" played by Elizabeth Moss](junesucks.jpg)
 
-This is an exerpt from an article by Alexis Nedd
+This is an excerpt from an article by Alexis Nedd
 published on [Mashable](https://mashable.com/article/handmaids-tale-black-women-deaths/)
 
+## Dystopia fiction
 Dystopian fiction is by definition a showcase of the worst case scenario.
 To write it, creators must take horrible realities and stretch them to their logical,
-if pessimistic, conclusion. In a lot of ways The Handmaid’s Tale does dystopia fairly well —
+if pessimistic, conclusion. In a lot of ways _The Handmaid’s Tale_ does dystopia fairly well —
 it draws upon modern misogyny, extremist pseudo-Christian ideology,
 and observable human rights abuses and imagines a world where all of society is governed by those terms. 
 
+### The problem with writing a dystopia
 The problem with writing a dystopia is that worst case scenarios are subjective.
 Everyone’s nightmare looks different to the person standing next to them. Margaret Atwood,
 who wrote _The Handmaid’s Tale_ book even has a quote that speaks directly to this concept:
 “Men are afraid that women will laugh at them. Women are afraid that men will kill them.” 
+
 
 _The Handmaid’s Tale_ on Hulu follows the worst case scenario for its protagonist June,
 a white woman from the Boston area. June is forced into sexual slavery as a Handmaid,
