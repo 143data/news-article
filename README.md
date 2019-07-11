@@ -1,7 +1,9 @@
 # news-article
 an informative article on something interesting
 
-# Last Night's Episode of _The Handmaid's Tale_ Sucked
+# _The Handmaid's Tale_ has a black people problem and its name is June
 
-![An image of an episode of this terrible show](timewaste.jpg)
+By Alexis Nedd
+published on [Mashable](https://mashable.com/article/handmaids-tale-black-women-deaths/)
+
 
