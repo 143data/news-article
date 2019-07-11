@@ -3,6 +3,8 @@ an informative article on something interesting
 
 # _The Handmaid's Tale_ has a black people problem and its name is June
 
+![The protagonist "Ofjoseph" played by Elizabeth Moss](junesucks.jpg)
+
 By Alexis Nedd
 published on [Mashable](https://mashable.com/article/handmaids-tale-black-women-deaths/)
 
